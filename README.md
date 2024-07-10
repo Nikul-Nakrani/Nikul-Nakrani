@@ -5,7 +5,7 @@ I'm a passionate Android and Flutter developer dedicated to creating innovative 
 
 ## 🚀 About Me
 - **📱 Mobile Development**: Expertise in Android and Flutter.
-- **🔧 Skills**: Kotlin, Dart, Java, Firebase, RESTful APIs, SQLite, Git.
+- **🔧 Skills**: Kotlin, Dart, Java, Firebase, Retrofit APIs, SQLite, Git.
 - **🎨 UI/UX**: Creating responsive and intuitive user interfaces.
 - **🔄 Continuous Learning**: Keeping up with the latest trends and best practices in mobile development.
 
