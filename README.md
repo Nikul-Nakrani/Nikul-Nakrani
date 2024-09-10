@@ -18,7 +18,7 @@ I'm a passionate Android and Flutter developer dedicated to creating innovative 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📬 Get in Touch
-- **LinkedIn**: [Nikul Nakrani](https://www.linkedin.com/in/nikul-nakrani-290055219)
+- **LinkedIn**: [Nikul Nakrani](https://www.linkedin.com/in/nikulnakrani)
 - **Email**: [nakraninikul1@gmail.com](mailto:nakraninikul1@gmail.com)
 
 Feel free to reach out if you have any questions or if you’re interested in collaborating on a project!
